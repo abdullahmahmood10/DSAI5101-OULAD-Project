@@ -1,0 +1,9 @@
+ID,Area,Hypothesis,EDA evidence
+H1,VLE engagement,Students with more consistent first-four-week engagement will have a lower probability of being at risk.,"Successful students had median 231 clicks and 12 active days, compared with 119 clicks and 7 active days for at-risk students."
+H2,No early activity,Students with no VLE activity during days 0-27 will have a higher probability of later failure or withdrawal.,"The at-risk rate was 81.4% with no activity, compared with 42.4% with some activity."
+H3,Assessment participation,Students who do not submit an available early assessment will have a higher probability of being at risk.,The at-risk rate was 85.1% for non-submitters and 39.6% for submitters.
+H4,Assessment performance,Higher early assessment scores will be associated with a lower probability of being at risk.,"After excluding the unusual near-binary assessment 15020, risk declined from 90.6% below score 40 to 26.2% at score 80 or above."
+H5,Previous attempts,Students with more previous attempts will have a higher probability of being at risk.,Risk increased from 41.8% with no previous attempts to 66.2% with two or more attempts.
+H6,Study load,Students studying more credits will have a higher probability of being at risk.,Risk increased from 41.8% for up to 60 credits to 61.1% for more than 180 credits.
+H7,Module context,At-risk rates and predictive relationships will differ between modules and presentations.,"Module risk ranged from 26.0% for AAA to 52.4% for CCC, with further variation between presentations."
+H8,Demographic fairness,Model performance may differ across demographic and socioeconomic groups and should be evaluated separately.,"Risk varied by disability, age, education, gender, and area-deprivation band. These are associations, not causal conclusions."
